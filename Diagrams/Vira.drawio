@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T05:32:22.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NKYgljTMY6CKA4iKZ4AP" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T05:39:55.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="90JxFwnkZFq20DZJtY7v" version="21.7.4" type="github">
   <diagram name="Page-1" id="nwzUWgBaMD1S-PIcgMs_">
-    <mxGraphModel dx="7544" dy="4888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="6363" dy="4237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ln6C03SRQDHn4zueIUIS-55" value="Vira Shops Modeler" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;swimlaneLine=1;shadow=0;rounded=1;gradientColor=none;swimlaneFillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-4670" y="-3300" width="1260" height="800" as="geometry" />
+          <mxGeometry x="-4670" y="-3300" width="1150" height="800" as="geometry" />
         </mxCell>
         <mxCell id="Ln6C03SRQDHn4zueIUIS-28" value="List - 03" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="Ln6C03SRQDHn4zueIUIS-55" vertex="1">
           <mxGeometry x="121" y="305" width="150" height="210" as="geometry" />
@@ -139,6 +139,24 @@
         </mxCell>
         <mxCell id="Ln6C03SRQDHn4zueIUIS-54" value="Tarrif Change Rules Law" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Ln6C03SRQDHn4zueIUIS-49" vertex="1">
           <mxGeometry y="120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3BMINrPEzzfqjW5fYpkj-2" value="Vira Shops&amp;nbsp; Architecture" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;swimlaneLine=1;shadow=0;rounded=1;gradientColor=none;swimlaneFillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3497" y="-3298" width="3617" height="3358" as="geometry" />
+        </mxCell>
+        <mxCell id="3BMINrPEzzfqjW5fYpkj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3BMINrPEzzfqjW5fYpkj-2" source="3BMINrPEzzfqjW5fYpkj-17" target="3BMINrPEzzfqjW5fYpkj-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3BMINrPEzzfqjW5fYpkj-17" value="Server (Default Ubuntu)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="3BMINrPEzzfqjW5fYpkj-2">
+          <mxGeometry x="497" y="58" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BMINrPEzzfqjW5fYpkj-18" value="Database (Relational like MySql, PostgreSql, MsSql , ...)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="3BMINrPEzzfqjW5fYpkj-2">
+          <mxGeometry x="640" y="158" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BMINrPEzzfqjW5fYpkj-20" value="Web Server (Apache, NginX)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-3222" y="-3140" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BMINrPEzzfqjW5fYpkj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3BMINrPEzzfqjW5fYpkj-17" target="3BMINrPEzzfqjW5fYpkj-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
