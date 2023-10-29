@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T05:38:04.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nk-qKE-Zg1L5wbvB6l7w" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T05:43:29.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yohO9YMqyK6KHOzsW8L-" version="22.0.0" type="github">
   <diagram name="Page-1" id="x40oEDqZNqdB3pjof8ZT">
     <mxGraphModel dx="3218" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -122,7 +122,25 @@
           <mxGeometry x="30" y="604.5" width="60" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KSszD4i1q3WSwCHh2YaN-71" value="طراحی UI در فیگما و تاییدیه کارفرما" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Tahoma;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;textDirection=rtl;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-61">
-          <mxGeometry x="250" y="723.5" width="260" height="30" as="geometry" />
+          <mxGeometry x="250" y="733.5" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-72" value="اجرای UI با فریمورک Next.js" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Tahoma;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;textDirection=rtl;" vertex="1" parent="1">
+          <mxGeometry x="310" y="713.5" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-73" value="برنامه نویسی سمت سرور" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Tahoma;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;textDirection=rtl;" vertex="1" parent="1">
+          <mxGeometry x="310" y="673.5" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-74" value="تست و دیباگ نرم افزار" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Tahoma;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;textDirection=rtl;" vertex="1" parent="1">
+          <mxGeometry x="310" y="633.5" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-75" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" edge="1" parent="1" source="KSszD4i1q3WSwCHh2YaN-65" target="KSszD4i1q3WSwCHh2YaN-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-76" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" edge="1" parent="1" source="KSszD4i1q3WSwCHh2YaN-66" target="KSszD4i1q3WSwCHh2YaN-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-77" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" edge="1" parent="1" source="KSszD4i1q3WSwCHh2YaN-68" target="KSszD4i1q3WSwCHh2YaN-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
