@@ -1,11 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T04:26:31.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="L9T7cq6NipAzqAW6ZVYZ" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T05:27:55.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Jw6wzFPJeDtpcXpZzR-1" version="22.0.0" type="github">
   <diagram name="Page-1" id="x40oEDqZNqdB3pjof8ZT">
-    <mxGraphModel dx="2049" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3218" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KSszD4i1q3WSwCHh2YaN-1" value="تحلیل و نیازسنجی پروژه" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-1" value="&lt;h1&gt;&lt;font face=&quot;Tahoma&quot;&gt;تحلیل و نیازسنجی پروژه&lt;/font&gt;&lt;/h1&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;gradientDirection=east;swimlaneFillColor=#fff;rounded=1;glass=0;shadow=0;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-2" value="&lt;h1&gt;&lt;b&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 16px;&quot;&gt;نیاز اولیه&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=0;swimlaneLine=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;swimlaneFillColor=default;strokeColor=#10739e;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-1">
+          <mxGeometry x="980" y="70" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-3" value="&lt;h3&gt;&lt;font face=&quot;Tahoma&quot;&gt;نسخه تحت وب&lt;/font&gt;&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-2">
+          <mxGeometry y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-4" value="&lt;h3&gt;&lt;font face=&quot;Tahoma&quot;&gt;نسخه PWA&lt;/font&gt;&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;textDirection=rtl;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-2">
+          <mxGeometry y="70" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-5" value="&lt;h3&gt;&lt;font face=&quot;Tahoma&quot;&gt;پنل ادمین&lt;/font&gt;&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-2">
+          <mxGeometry y="120" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.024;entryY=0.151;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;sketch=1;curveFitting=1;jiggle=2;entryPerimeter=0;" edge="1" parent="KSszD4i1q3WSwCHh2YaN-1" source="KSszD4i1q3WSwCHh2YaN-3" target="KSszD4i1q3WSwCHh2YaN-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;sketch=1;curveFitting=1;jiggle=2;entryX=1.028;entryY=0.151;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KSszD4i1q3WSwCHh2YaN-1" source="KSszD4i1q3WSwCHh2YaN-4" target="KSszD4i1q3WSwCHh2YaN-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-23" value="&lt;h2&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;شامل&lt;/font&gt;&lt;/h2&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#b1ddf0;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-1">
+          <mxGeometry x="670" y="130" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-24" value="پنل باشگاه" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontColor=default;fontStyle=1;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-23">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-25" value="پنل مربی" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontColor=default;fontStyle=1" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-23">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-26" value="پنل ورزشکار" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontColor=default;fontStyle=1" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-23">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-56" value="گزارشات" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-23">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-31" value="&lt;h2&gt;&lt;font size=&quot;1&quot; face=&quot;Tahoma&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;امکانات&lt;/b&gt;&lt;/font&gt;&lt;/h2&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#b1ddf0;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-1">
+          <mxGeometry x="870" y="320" width="170" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-32" value="مدیریت کاربران" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontColor=default;fontStyle=1" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-31">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-33" value="تنظیم سطوح دسترسی" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontColor=default;fontStyle=1" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-31">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-34" value="تعریف برنامه ها" style="text;strokeColor=#0e8088;fillColor=#b0e3e6;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-31">
+          <mxGeometry y="90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-43" value="تعریف پلن های درامدی" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontStyle=1;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-31">
+          <mxGeometry y="120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-44" value="مدیریت کیف پول کاربران و حسابداری" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontStyle=1;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-31">
+          <mxGeometry y="150" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-45" value="مدیریت درگاه های پرداخت" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontStyle=1;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-31">
+          <mxGeometry y="180" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-57" value="گزارش ساز" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-31">
+          <mxGeometry y="210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-36" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" edge="1" parent="KSszD4i1q3WSwCHh2YaN-1" source="KSszD4i1q3WSwCHh2YaN-5" target="KSszD4i1q3WSwCHh2YaN-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-38" value="&lt;h2&gt;&lt;font face=&quot;Tahoma&quot;&gt;رژیمی&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-1">
+          <mxGeometry x="720" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-40" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" edge="1" parent="KSszD4i1q3WSwCHh2YaN-1" source="KSszD4i1q3WSwCHh2YaN-34" target="KSszD4i1q3WSwCHh2YaN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-50" value="&lt;h2&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;تمرینی&lt;/font&gt;&lt;/h2&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#b1ddf0;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-1">
+          <mxGeometry x="640" y="454" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-51" value="عکس" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontColor=default;fontStyle=1;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-50">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-52" value="واحد مانند دقیقه" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontColor=default;fontStyle=1" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-50">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-53" value="مقدار" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontColor=default;fontStyle=1" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-50">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-55" value="فیلم - VIP" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Tahoma;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-50">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-59" value="&lt;h2&gt;&lt;font face=&quot;Tahoma&quot;&gt;نیازسنجی&lt;/font&gt;&lt;/h2&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=#b1ddf0;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-1">
+          <mxGeometry x="610" y="10" width="530" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-58" value="&lt;h2&gt;&lt;font face=&quot;Tahoma&quot;&gt;در قسمت ثبت نام اطلاعات اولیه مورد نیاز : کد ملی - موبایل - شرح و پس از ثبت نام ارجاع به صفحه پروفایل جهت تکمیل اطلاعات مانند تصویر پروفایل اطلاعات توده بدنی مانند قد و وزن به صورت دوره ای از ورزشکار گرفته میشود.&lt;/font&gt;&lt;/h2&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#10739e;align=right;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=#b1ddf0;spacingTop=0;spacingLeft=10;spacingBottom=0;spacingRight=10;spacing=10;textDirection=rtl;" vertex="1" parent="KSszD4i1q3WSwCHh2YaN-59">
+          <mxGeometry x="25" y="620" width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KSszD4i1q3WSwCHh2YaN-60" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=30;" edge="1" parent="KSszD4i1q3WSwCHh2YaN-1" source="KSszD4i1q3WSwCHh2YaN-34" target="KSszD4i1q3WSwCHh2YaN-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
